@@ -47,7 +47,7 @@ class Atom(Scene):
         self.play(Create(atom2))
         self.play(atom2.animate.shift(LEFT))
 
-        
+       
         
 
         for i in range(5):
