@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/720p30/partial_movie_files/PolygonOnAxes/274514146_1406904827_1270958552.mp4'
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/720p30/partial_movie_files/PolygonOnAxes/2789044632_1214029978_858551286.mp4'
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/720p30/partial_movie_files/PolygonOnAxes/2789044632_2922256011_2313364530.mp4'
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/720p30/partial_movie_files/PolygonOnAxes/2789044632_2280184378_3552216514.mp4'

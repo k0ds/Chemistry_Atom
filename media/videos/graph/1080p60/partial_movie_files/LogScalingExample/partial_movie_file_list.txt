@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/1080p60/partial_movie_files/LogScalingExample/2902699114_2018101111_223132457.mp4'
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/1080p60/partial_movie_files/LogScalingExample/3931933789_125286499_1760560557.mp4'
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/1080p60/partial_movie_files/LogScalingExample/3931933789_4013782244_4174018169.mp4'
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/1080p60/partial_movie_files/LogScalingExample/3931933789_2911963678_1670631005.mp4'
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/1080p60/partial_movie_files/LogScalingExample/3931933789_3850300545_2842537512.mp4'
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/1080p60/partial_movie_files/LogScalingExample/3931933789_678561661_3162450588.mp4'
-file 'file:C:/Users/k0ds/Downloads/Academics/Programming/manim/media/videos/graph/1080p60/partial_movie_files/LogScalingExample/3931933789_2358420384_2567944556.mp4'
